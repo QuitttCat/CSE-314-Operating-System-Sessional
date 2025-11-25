@@ -1,0 +1,193 @@
+Intelligent stuff 2 has began reviewing logbook at time 0. Operations completed = 0
+
+Intelligent stuff 2 has finished reviewing logbook at time 1. Operations completed = 0
+
+Intelligent stuff 2 is updated status at time 1
+
+Operative 3 [from unit 1] has arrived at typewriting station 4 at time 1
+
+Operative 4 [from unit 1] has arrived at typewriting station 1 at time 1
+
+Operative 5 [from unit 1] has arrived at typewriting station 2 at time 1
+
+Operative 14 [from unit 3] has arrived at typewriting station 3 at time 2
+
+Operative 15 [from unit 3] has arrived at typewriting station 4 at time 2
+
+Operative 11 [from unit 3] has arrived at typewriting station 4 at time 3
+
+Operative 12 [from unit 3] has arrived at typewriting station 1 at time 3
+
+Operative 7 [from unit 2] has arrived at typewriting station 4 at time 4
+
+Operative 3 [from unit 1] has completed document recreation at typewriting station 4 at time 4
+
+Operative 3 has notified document recreation end at time 4. Waiting operatives: 15 11 7 
+
+Operative 3 [from unit 1] handled over document 1 to the leader of unit 1 at time 4
+
+Operative 4 [from unit 1] has completed document recreation at typewriting station 1 at time 4
+
+Operative 4 has notified document recreation end at time 4. Waiting operatives: 12 
+
+Operative 4 [from unit 1] handled over document 2 to the leader of unit 1 at time 4
+
+Operative 9 [from unit 2] has arrived at typewriting station 2 at time 4
+
+Intelligent stuff 1 has began reviewing logbook at time 4. Operations completed = 0
+
+Operative 5 [from unit 1] has completed document recreation at typewriting station 2 at time 4
+
+Operative 5 has notified document recreation end at time 4. Waiting operatives: 9 
+
+Operative 5 [from unit 1] handled over document 3 to the leader of unit 1 at time 4
+
+Operative 2 [from unit 1] has arrived at typewriting station 3 at time 5
+
+Operative 14 [from unit 3] has completed document recreation at typewriting station 3 at time 5
+
+Operative 14 has notified document recreation end at time 5. Waiting operatives: 2 
+
+Operative 14 [from unit 3] handled over document 1 to the leader of unit 3 at time 5
+
+Intelligent stuff 2 has began reviewing logbook at time 5. Operations completed = 0
+
+Operative 6 [from unit 2] has arrived at typewriting station 3 at time 6
+
+Intelligent stuff 1 has finished reviewing logbook at time 6. Operations completed = 0
+
+Intelligent stuff 1 is calling Shelby bhai at time 6
+
+Intelligent stuff 2 has finished reviewing logbook at time 6. Operations completed = 0
+
+Intelligent stuff 2 is updated status at time 6
+
+Operative 1 [from unit 1] has arrived at typewriting station 2 at time 7
+
+Operative 13 [from unit 3] has arrived at typewriting station 2 at time 7
+
+Operative 10 [from unit 2] has arrived at typewriting station 3 at time 7
+
+Operative 15 [from unit 3] has completed document recreation at typewriting station 4 at time 7
+
+Operative 15 has notified document recreation end at time 7. Waiting operatives: 11 7 
+
+Operative 8 [from unit 2] has arrived at typewriting station 1 at time 7
+
+Operative 15 [from unit 3] handled over document 2 to the leader of unit 3 at time 7
+
+Operative 12 [from unit 3] has completed document recreation at typewriting station 1 at time 7
+
+Operative 12 has notified document recreation end at time 7. Waiting operatives: 8 
+
+Operative 12 [from unit 3] handled over document 3 to the leader of unit 3 at time 7
+
+Operative 9 [from unit 2] has completed document recreation at typewriting station 2 at time 7
+
+Operative 9 has notified document recreation end at time 7. Waiting operatives: 1 13 
+
+Operative 9 [from unit 2] handled over document 1 to the leader of unit 2 at time 7
+
+Operative 2 [from unit 1] has completed document recreation at typewriting station 3 at time 8
+
+Operative 2 has notified document recreation end at time 8. Waiting operatives: 6 10 
+
+Operative 2 [from unit 1] handled over document 4 to the leader of unit 1 at time 8
+
+Intelligent stuff 1 has began reviewing logbook at time 9. Operations completed = 0
+
+Operative 11 [from unit 3] has completed document recreation at typewriting station 4 at time 10
+
+Operative 11 has notified document recreation end at time 10. Waiting operatives: 7 
+
+Operative 11 [from unit 3] handled over document 4 to the leader of unit 3 at time 10
+
+Operative 1 [from unit 1] has completed document recreation at typewriting station 2 at time 10
+
+Operative 1 has notified document recreation end at time 10. Waiting operatives: 13 
+
+Operative 1 [from unit 1] handled over document 5 to the leader of unit 1 at time 10
+
+Unit 1 has completed document recreation phase at time 10
+
+Operative 8 [from unit 2] has completed document recreation at typewriting station 1 at time 10
+
+Operative 8 has notified document recreation end at time 10. Waiting operatives: 
+
+Operative 8 [from unit 2] handled over document 2 to the leader of unit 2 at time 10
+
+Intelligent stuff 2 has began reviewing logbook at time 11. Operations completed = 0
+
+Intelligent stuff 1 has finished reviewing logbook at time 11. Operations completed = 0
+
+Intelligent stuff 1 is calling Shelby bhai at time 11
+
+Operative 6 [from unit 2] has completed document recreation at typewriting station 3 at time 11
+
+Operative 6 has notified document recreation end at time 11. Waiting operatives: 10 
+
+Operative 6 [from unit 2] handled over document 3 to the leader of unit 2 at time 11
+
+Intelligent stuff 2 has finished reviewing logbook at time 12. Operations completed = 0
+
+Intelligent stuff 2 is updated status at time 12
+
+Unit 1 has started intelligence distribution at time 12
+
+Operative 7 [from unit 2] has completed document recreation at typewriting station 4 at time 13
+
+Operative 7 has notified document recreation end at time 13. Waiting operatives: 
+
+Operative 7 [from unit 2] handled over document 4 to the leader of unit 2 at time 13
+
+Operative 13 [from unit 3] has completed document recreation at typewriting station 2 at time 13
+
+Operative 13 has notified document recreation end at time 13. Waiting operatives: 
+
+Operative 13 [from unit 3] handled over document 5 to the leader of unit 3 at time 13
+
+Unit 3 has completed document recreation phase at time 13
+
+Operative 10 [from unit 2] has completed document recreation at typewriting station 3 at time 14
+
+Operative 10 has notified document recreation end at time 14. Waiting operatives: 
+
+Operative 10 [from unit 2] handled over document 5 to the leader of unit 2 at time 14
+
+Unit 2 has completed document recreation phase at time 14
+
+Unit 1 has completed intelligence distribution at time 17
+
+Unit 3 has started intelligence distribution at time 17
+
+Unit 3 has completed intelligence distribution at time 22
+
+Intelligent stuff 1 has began reviewing logbook at time 22. Operations completed = 2
+
+Intelligent stuff 2 has began reviewing logbook at time 22. Operations completed = 2
+
+Intelligent stuff 2 has finished reviewing logbook at time 23. Operations completed = 2
+
+Intelligent stuff 2 is updated status at time 23
+
+Intelligent stuff 1 has finished reviewing logbook at time 24. Operations completed = 2
+
+Intelligent stuff 1 is calling Shelby bhai at time 24
+
+Unit 2 has started intelligence distribution at time 24
+
+Unit 2 has completed intelligence distribution at time 29
+
+Intelligent stuff 1 has began reviewing logbook at time 29. Operations completed = 3
+
+Intelligent stuff 2 has began reviewing logbook at time 29. Operations completed = 3
+
+Intelligent stuff 2 has finished reviewing logbook at time 30. Operations completed = 3
+
+Intelligent stuff 2 is updated status at time 30
+
+Intelligent stuff 1 has finished reviewing logbook at time 31. Operations completed = 3
+
+Intelligent stuff 1 is calling Shelby bhai at time 31
+
+All operations completed

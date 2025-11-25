@@ -1,0 +1,10 @@
+bash run.sh input.txt output.txt
+
+
+---------------
+notification
+NUM_STATION 2
+
+M,N,X
+3 12 3
+---------------
